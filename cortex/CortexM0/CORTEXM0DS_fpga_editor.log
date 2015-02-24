@@ -1,0 +1,47 @@
+#:C9     
+#Xilinx FPGA Editor Command Log File
+#Editor Version:
+#:V   NT M2.1 P.15xf
+#Current Working Directory:
+#:D   C:\Users\Carlos\Dropbox\University of Bristol\2 Semester\Embedded and Real-Time Systems\cortex\CortexM0
+#Date/Time:
+#:T   Thu Feb 12 16:06:15 2015
+#------------------------------
+	#Reading CORTEXM0DS.ncd...
+	#Loading device for application Rf_Device from file '6slx150t.nph' in environment C:\Xilinx\14.1\ISE_DS\ISE\.
+	#   "CORTEXM0DS" is an NCD, version 3.2, device xc6slx150t, package fgg900, speed -2
+	#Design creation date: 2015.02.12.15.21.58
+	#Building chip graphics...
+	#Loading speed info...
+	#1
+setattr main edit-mode no-logic-changes
+	#2
+delay
+	#ERROR:FPGAEditor:201 - The delay command can be used only when pins or nets are selected
+	#.Select two pins, or one or more nets and try again.
+	#3
+unselect -all
+	#4
+select comp 'u_logic/Ujo2z4'
+	#comp "u_logic/Ujo2z4",  site "SLICE_X20Y77",  type = SLICEX  (RPM grid X53Y308)
+	#5
+unselect -all
+	#6
+select site 'SLICE_X102Y122'
+	#site "SLICE_X102Y122",  type = SLICEL  (RPM grid X249Y488)
+	#7
+delay
+	#ERROR:FPGAEditor:201 - The delay command can be used only when pins or nets are selected
+	#.Select two pins, or one or more nets and try again.
+	#8
+unselect -all
+	#9
+select comp 'u_logic/Jucwx4'
+	#comp "u_logic/Jucwx4",  site "SLICE_X18Y65",  type = SLICEX  (RPM grid X49Y260)
+	#10
+unselect -all
+	#11
+select comp 'u_logic/Jucwx4'
+	#comp "u_logic/Jucwx4",  site "SLICE_X18Y65",  type = SLICEX  (RPM grid X49Y260)
+	#12
+post block

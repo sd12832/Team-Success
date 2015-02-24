@@ -1,0 +1,169 @@
+m255
+K3
+13
+cModel Technology
+dO:\Documents\eejlny\teaching\ERTS\test2012
+Econstant2pulse
+Z0 DPx6 unisim 11 vcomponents 0 22 dC?zdg3YZ2:TcY2M;^d<>2
+Z1 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z2 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+32
+Z3 OL;C;10.1c;51
+Z4 OV;C;10.1b;51
+Z5 OP;C;10.4;61
+Z6 w1306348838
+Z7 dO:\Documents\eejlny\teaching\ERTS\arm_lab\components
+Z8 8O:/Documents/eejlny/teaching/ERTS/arm_lab/components/Constant2Pulse.vhd
+Z9 FO:/Documents/eejlny/teaching/ERTS/arm_lab/components/Constant2Pulse.vhd
+l0
+L31
+VQn3C;N9mPANGD[K>1=8m=1
+Z10 !s108 1348656898.703000
+Z11 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|O:/Documents/eejlny/teaching/ERTS/arm_lab/components/Constant2Pulse.vhd|
+Z12 !s107 O:/Documents/eejlny/teaching/ERTS/arm_lab/components/Constant2Pulse.vhd|
+Z13 o-work work -2002 -explicit
+Z14 tExplicit 1
+!i10b 1
+!s100 U5lH=]i8oUBiANzV37gG<0
+Abehavioral
+Z15 DPx6 unisim 11 vcomponents 0 22 dC?zdg3YZ2:TcY2M;^d<>2
+R1
+R2
+DEx4 work 14 constant2pulse 0 22 Qn3C;N9mPANGD[K>1=8m=1
+32
+R3
+R4
+R5
+l47
+L36
+VQkMLb_z<3Bj2nm10nM5Nm1
+R10
+R11
+R12
+R13
+R14
+!i10b 1
+!s100 OW8b>lj7QkbYR3U9K[`PL0
+Ecounter2constant
+R15
+R1
+R2
+32
+R3
+R4
+R5
+Z16 w1306348852
+R7
+Z17 8O:/Documents/eejlny/teaching/ERTS/arm_lab/components/Counter2Constant.vhd
+Z18 FO:/Documents/eejlny/teaching/ERTS/arm_lab/components/Counter2Constant.vhd
+l0
+L32
+VE3IfQg[[>ECnO9QIMi^mE0
+Z19 !s108 1348656899.453000
+Z20 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|O:/Documents/eejlny/teaching/ERTS/arm_lab/components/Counter2Constant.vhd|
+Z21 !s107 O:/Documents/eejlny/teaching/ERTS/arm_lab/components/Counter2Constant.vhd|
+R13
+R14
+!i10b 1
+!s100 4WShHDHM_6jZnYCM[PfQW0
+Abehavioral
+R15
+R1
+R2
+DEx4 work 16 counter2constant 0 22 E3IfQg[[>ECnO9QIMi^mE0
+32
+R3
+R4
+R5
+l51
+L37
+VOf_mQ55fT?5Sbe7]D`G=F3
+R19
+R20
+R21
+R13
+R14
+!i10b 1
+!s100 lQzGSgKN;m8VeemPJOb`h0
+Edetectorbus
+R15
+R1
+R2
+32
+R3
+R4
+R5
+Z22 w1306348864
+R7
+Z23 8O:/Documents/eejlny/teaching/ERTS/arm_lab/components/Detector.vhd
+Z24 FO:/Documents/eejlny/teaching/ERTS/arm_lab/components/Detector.vhd
+l0
+L32
+VYFNBg<FiE45iDjPJj=HS_3
+Z25 !s108 1348656900.218000
+Z26 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|O:/Documents/eejlny/teaching/ERTS/arm_lab/components/Detector.vhd|
+Z27 !s107 O:/Documents/eejlny/teaching/ERTS/arm_lab/components/Detector.vhd|
+R13
+R14
+!i10b 1
+!s100 j=d3X3`UZXakJKGPV3W=03
+Abehavioral
+R15
+R1
+R2
+DEx4 work 11 detectorbus 0 22 YFNBg<FiE45iDjPJj=HS_3
+32
+R3
+R4
+R5
+l46
+L38
+V@]<[@YBPXd<o0]K9EYno:1
+R25
+R26
+R27
+R13
+R14
+!i10b 1
+!s100 d?a=FW@ZiE4c4]hF?4<U80
+Esyncreset
+R15
+R1
+R2
+32
+R3
+R4
+R5
+Z28 w1306348892
+R7
+Z29 8O:/Documents/eejlny/teaching/ERTS/arm_lab/components/SyncReset.vhd
+Z30 FO:/Documents/eejlny/teaching/ERTS/arm_lab/components/SyncReset.vhd
+l0
+L32
+Vll1>h3<=d^Zh;LST]UAA92
+Z31 !s108 1348656900.961000
+Z32 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|O:/Documents/eejlny/teaching/ERTS/arm_lab/components/SyncReset.vhd|
+Z33 !s107 O:/Documents/eejlny/teaching/ERTS/arm_lab/components/SyncReset.vhd|
+R13
+R14
+!i10b 1
+!s100 V`WF5RWlT64BR=`=ghBj80
+Abehavioral
+R15
+R1
+R2
+DEx4 work 9 syncreset 0 22 ll1>h3<=d^Zh;LST]UAA92
+32
+R3
+R4
+R5
+l54
+L39
+VGUPBoNP`@m_bYJi7PjRM=3
+R31
+R32
+R33
+R13
+R14
+!i10b 1
+!s100 B3adM?`nGbnF`oznH0f?B3
